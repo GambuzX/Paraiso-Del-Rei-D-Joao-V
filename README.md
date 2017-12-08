@@ -4,4 +4,4 @@ Block Breaker kind of game I developed during a Unity 3D online course.
 
 The theme is based on a joke from my group of friends, who are actually in the game as blocks.
 
-Download the zip file to play!
+Download the rar file to play!
