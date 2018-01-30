@@ -4,4 +4,4 @@ Block Breaker kind of game.
 
 The theme is based on a joke from my group of friends, who are actually in the game as blocks.
 
-Download the rar file to play!
+Download the zip file to play!
