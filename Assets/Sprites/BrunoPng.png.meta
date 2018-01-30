@@ -1,0 +1,719 @@
+fileFormatVersion: 2
+guid: 996bfb7277411704a8a79e00362aa01e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BrunoPng_11
+    21300002: BrunoPng_12
+    21300004: BrunoPng_17
+    21300006: BrunoPng_18
+    21300008: BrunoPng_19
+    21300010: BrunoPng_20
+    21300012: BrunoPng_21
+    21300014: BrunoPng_22
+    21300016: BrunoPng_24
+    21300018: BrunoPng_25
+    21300020: BrunoPng_28
+    21300022: BrunoPng_29
+    21300024: BrunoPng_30
+    21300026: BrunoPng_31
+    21300028: BrunoPng_32
+    21300030: BrunoPng_33
+    21300032: BrunoPng_35
+    21300034: BrunoPng_36
+    21300036: BrunoPng_38
+    21300038: BrunoPng_39
+    21300040: BrunoPng_40
+    21300042: BrunoPng_41
+    21300044: BrunoPng_42
+    21300046: BrunoPng_43
+    21300048: BrunoPng_44
+    21300050: BrunoPng_45
+    21300052: BrunoPng_46
+    21300054: BrunoPng_49
+    21300056: BrunoPng_50
+    21300058: BrunoPng_51
+    21300060: BrunoPng_53
+    21300062: BrunoPng_54
+    21300064: BrunoPng_55
+    21300066: BrunoPng_56
+    21300068: BrunoPng_57
+    21300070: BrunoPng_58
+    21300072: BrunoPng_61
+    21300074: BrunoPng_62
+    21300076: BrunoPng_64
+    21300078: BrunoPng_65
+    21300080: BrunoPng_66
+    21300082: BrunoPng_69
+    21300084: BrunoPng_70
+    21300086: BrunoPng_73
+    21300088: BrunoPng_74
+    21300090: BrunoPng_75
+    21300092: BrunoPng_76
+    21300094: BrunoPng_77
+    21300096: BrunoPng_78
+    21300098: BrunoPng_79
+    21300100: BrunoPng_80
+    21300102: BrunoPng_81
+    21300104: BrunoPng_82
+    21300106: BrunoPng_83
+    21300108: BrunoPng_84
+    21300110: BrunoPng_86
+    21300112: BrunoPng_87
+    21300114: BrunoPng_88
+    21300116: BrunoPng_89
+    21300118: BrunoPng_90
+    21300120: BrunoPng_91
+    21300122: BrunoPng_92
+    21300124: BrunoPng_93
+    21300126: BrunoPng_94
+    21300128: BrunoPng_95
+    21300130: BrunoPng_96
+    21300132: BrunoPng_97
+    21300134: BrunoPng_98
+    21300136: BrunoPng_100
+    21300138: BrunoPng_101
+    21300140: BrunoPng_102
+    21300142: BrunoPng_103
+    21300144: BrunoPng_104
+    21300146: BrunoPng_105
+    21300148: BrunoPng_106
+    21300150: BrunoPng_107
+    21300152: BrunoPng_108
+    21300154: BrunoPng_109
+    21300156: BrunoPng_110
+    21300158: BrunoPng_111
+    21300160: BrunoPng_112
+    21300162: BrunoPng_114
+    21300164: BrunoPng_115
+    21300166: BrunoPng_116
+    21300168: BrunoPng_117
+    21300170: BrunoPng_118
+    21300172: BrunoPng_119
+    21300174: BrunoPng_120
+    21300176: BrunoPng_121
+    21300178: BrunoPng_122
+    21300180: BrunoPng_123
+    21300182: BrunoPng_124
+    21300184: BrunoPng_125
+    21300186: BrunoPng_126
+    21300188: BrunoPng_129
+    21300190: BrunoPng_130
+    21300192: BrunoPng_131
+    21300194: BrunoPng_132
+    21300196: BrunoPng_133
+    21300198: BrunoPng_134
+    21300200: BrunoPng_135
+    21300202: BrunoPng_136
+    21300204: BrunoPng_137
+    21300206: BrunoPng_138
+    21300208: BrunoPng_139
+    21300210: BrunoPng_142
+    21300212: BrunoPng_143
+    21300214: BrunoPng_144
+    21300216: BrunoPng_145
+    21300218: BrunoPng_146
+    21300220: BrunoPng_147
+    21300222: BrunoPng_148
+    21300224: BrunoPng_149
+    21300226: BrunoPng_151
+    21300228: BrunoPng_152
+    21300230: BrunoPng_153
+    21300232: BrunoPng_154
+    21300234: BrunoPng_155
+    21300236: BrunoPng_156
+    21300238: BrunoPng_157
+    21300240: BrunoPng_159
+    21300242: BrunoPng_160
+    21300244: BrunoPng_161
+    21300246: BrunoPng_162
+    21300248: BrunoPng_163
+    21300250: BrunoPng_164
+    21300252: BrunoPng_165
+    21300254: BrunoPng_167
+    21300256: BrunoPng_168
+    21300258: BrunoPng_169
+    21300260: BrunoPng_170
+    21300262: BrunoPng_171
+    21300264: BrunoPng_172
+    21300266: BrunoPng_173
+    21300268: BrunoPng_175
+    21300270: BrunoPng_176
+    21300272: BrunoPng_177
+    21300274: BrunoPng_178
+    21300276: BrunoPng_179
+    21300278: BrunoPng_180
+    21300280: BrunoPng_183
+    21300282: BrunoPng_184
+    21300284: BrunoPng_185
+    21300286: BrunoPng_186
+    21300288: BrunoPng_187
+    21300290: BrunoPng_188
+    21300292: BrunoPng_5
+    21300294: BrunoPng_6
+    21300296: BrunoPng_8
+    21300298: BrunoPng_9
+    21300300: BrunoPng_10
+    21300302: BrunoPng_15
+    21300304: BrunoPng_16
+    21300306: BrunoPng_26
+    21300308: BrunoPng_27
+    21300310: BrunoPng_34
+    21300312: BrunoPng_37
+    21300314: BrunoPng_47
+    21300316: BrunoPng_48
+    21300318: BrunoPng_52
+    21300320: BrunoPng_59
+    21300322: BrunoPng_63
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 160
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BrunoPng_5
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1121
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_6
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1121
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_8
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 1001
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_9
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1001
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1001
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1001
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_12
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1001
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 881
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 881
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_17
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 881
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_18
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 881
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_19
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 881
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_20
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 881
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 761
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_22
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 761
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_24
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 761
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_25
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 761
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_26
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 761
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_27
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 761
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 641
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_29
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 641
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 641
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_31
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 641
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 641
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_33
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 641
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 641
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 521
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_36
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 521
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_37
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 521
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_38
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 521
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_39
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 521
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_40
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 521
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 521
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 401
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 401
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_45
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 401
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_46
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 401
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_47
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 401
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 401
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_51
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 281
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_52
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 281
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 281
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_54
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 281
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_56
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 161
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_57
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 161
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_58
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 161
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_59
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 161
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 41
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_62
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 41
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_63
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 41
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BrunoPng_64
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 41
+        width: 250
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
