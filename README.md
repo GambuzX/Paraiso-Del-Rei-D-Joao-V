@@ -1,7 +1,15 @@
-Paraiso-Del-Rei-D-Joao-V
+# Paraiso-Del-Rei-D-Joao-V :hammer: :video_game:
 
-Block Breaker kind of game.
+### Context
+Game developed while following the "Complete C# Unity Developer" online course. I took the lectures as a basis to create something to my own liking and this was the result.
 
-The theme is based on a joke from my group of friends, who are actually in the game as blocks.
+### Description
+Block breaker game :hammer:, in which you must shoot arrows in order to defeat the Almighty King D. Joao V :crown: and his defenders.
 
-Download the zip file to play!
+The theme is based on a joke from my group of friends, who are actually in the game as D. Joao V's defenders.
+
+### Technologies
+* C#
+* Unity
+
+#### Download the zip file to play!
