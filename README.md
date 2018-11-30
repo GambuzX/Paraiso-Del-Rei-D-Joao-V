@@ -12,4 +12,9 @@ The theme is based on a joke from my group of friends, who are actually in the g
 * C#
 * Unity
 
+### Screenshots
+![Game Menu](https://github.com/GambuzX/Paraiso-Del-Rei-D-Joao-V/raw/master/screenshots/menu.png "Menu")
+![Gameplay](https://github.com/GambuzX/Paraiso-Del-Rei-D-Joao-V/raw/master/screenshots/gameplay.png "Gameplay")
+![Almighty King D. Joao V](https://github.com/GambuzX/Paraiso-Del-Rei-D-Joao-V/raw/master/screenshots/almightyKing.png "Almighty King D. Joao V")
+
 #### Download the zip file to play!
